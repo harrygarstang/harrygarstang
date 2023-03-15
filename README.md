@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harry</h1>
+<h1 align="center">Hi👋 , I'm Harry</h1>
 <h3 align="center">A passionate frontend developer from the Bristol in the United Kingdom</h3>
 
 - 🌱 I’m currently learning **Front-End-Development**
