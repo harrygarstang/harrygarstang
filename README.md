@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [[to be deployed]]([to be deployed])
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **harrygarstang2@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1w2Utr4itic91UL7JJOPZXXIQcyNl7cwH/edit?usp=sharing&ouid=101635018453944016924&rtpof=true&sd=true](https://docs.google.com/document/d/1w2Utr4itic91UL7JJOPZXXIQcyNl7cwH/edit?usp=sharing&ouid=101635018453944016924&rtpof=true&sd=true)
