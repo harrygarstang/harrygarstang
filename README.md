@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Front-End-Development**
 
-- 👨‍💻 All of my projects are available at [[to be deployed]]([to be deployed])
+- 👨‍💻 All of my projects will soon be avaliable on my portfolio. 
 
 - 📫 How to reach me **harrygarstang2@gmail.com**
 
